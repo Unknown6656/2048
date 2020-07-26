@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <Nullable>Enable</Nullable>
+        <TargetFramework>net5.0</TargetFramework>
+        <AssemblyName>2048</AssemblyName>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <OutputPath>..\bin\</OutputPath>
+        <RootNamespace>_2048</RootNamespace>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    </PropertyGroup>
+</Project>
